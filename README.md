@@ -1,7 +1,7 @@
 ### Hi there I'm Jesús Manuel López Ponce 👋
 
--   🏫 I'm a last year **CS student** at the University of Oriente <img src="https://cdn.countryflags.com/thumbs/cuba/flag-3d-250.png" height="15" />
--   🌱 I’m currently learning Computer Graphics
+-   🏫 I'm a computer scientist graduated at the University of Oriente <img src="https://cdn.countryflags.com/thumbs/cuba/flag-3d-250.png" height="15" />
+-   🌱 I’m currently learning Computer Graphics and Web dev
 -   📫 How to reach me: **jmlopezponce@gmail.com**
 -   ⚡ Fun fact: Did you know that if you take a classic rubik's cube, disassemble it into pieces and reassemble it, there is a 1/12 chance that you have left it in an unresolvable state?
 
@@ -29,7 +29,7 @@
 <h3 align="center">Tools</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,redux,tailwind,laravel,sqlite,linux,latex,git,github&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=react,redux,tailwind,laravel,mysql,sqlite,linux,latex,git,github&theme=dark" />
   </a>
 </p>
 
